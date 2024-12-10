@@ -36,4 +36,7 @@ The project consists of the following VHDL files:
 9. **register_file.vhd**
 
 10. **ROM.vhd**
+<<<<<<< HEAD
 
+=======
+>>>>>>> a5ed597f8e5159f61930bb439e655470f8434620
